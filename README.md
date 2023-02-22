@@ -9,6 +9,12 @@
   <p><b>Representation of training and testing data ratio</b></p>
   <img width=40% src="https://user-images.githubusercontent.com/66842328/220705395-511ba89c-97ed-44da-8af3-cb8067fb7a3c.png">
  <div>
+  <div>
+  <div dir='auto' > 
+  <p><b>Diagram of proposed Methodology</b></p>
+  <img width=50% src="https://user-images.githubusercontent.com/66842328/220709528-fa462b3c-ba7d-45e3-9108-013965a2e8b5.png">
+ <div>
+ 
  <p dir='auto'><b>Result:</b></p>
    
 | Model| Accuracy|Precision|Recall|F1-score
