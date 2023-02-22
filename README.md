@@ -9,13 +9,15 @@
   <img width=30% src="https://user-images.githubusercontent.com/66842328/220705395-511ba89c-97ed-44da-8af3-cb8067fb7a3c.png">
  <div>
  <p dir='auto'><b>Result:</b></p>
+   
 | Model| Accuracy|Precision|Recall|F1-score
 | --- | --- | --- | --- | --- | 
 | `Logistic Regression`| 72.02%| 0.70| 0.66| 0.68|
-| `Multinomial NB` | 70.89%| 0.68 |0.66| 0.67
-| `Random Forest` | 70.55%| 0.67| 0.66 |0.67
-| `Decision Tree` | 65.00%| 0.61| 0.62| 0.61
-| `K-Nearest Neighbour` | 61.60%| 0.57| 0.58| 0.58
+| `Multinomial NB` | 70.89%| 0.68 |0.66| 0.67|
+| `Random Forest` | 70.55%| 0.67| 0.66 |0.67|
+| `Decision Tree` | 65.00%| 0.61| 0.62| 0.61|
+| `K-Nearest Neighbour` | 61.60%| 0.57| 0.58| 0.58|
+   
   
  <p><b>Representation of ROC-AOC</b></p>
    <img width=30% src="https://user-images.githubusercontent.com/66842328/220706086-e08b8cc3-da5d-4194-83fb-6d29782b503c.png">
