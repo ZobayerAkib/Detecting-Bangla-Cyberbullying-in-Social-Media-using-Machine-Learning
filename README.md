@@ -1,1 +1,1 @@
-# Detecting-Bangla-Cyberbullying-in-Social-Media-using-Machine-Learning
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=151FF7&width=435&lines=Detecting+Bangla+Cyberbullying;using+Machine+Learning" alt="Typing SVG" /></a>
