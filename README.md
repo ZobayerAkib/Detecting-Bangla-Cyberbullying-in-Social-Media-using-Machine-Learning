@@ -7,7 +7,7 @@
  <div>
   <div dir='auto' > 
   <p><b>Representation of training and testing data ratio</b></p>
-  <img width=30% src="https://user-images.githubusercontent.com/66842328/220705395-511ba89c-97ed-44da-8af3-cb8067fb7a3c.png">
+  <img width=20% src="https://user-images.githubusercontent.com/66842328/220705395-511ba89c-97ed-44da-8af3-cb8067fb7a3c.png">
  <div>
  <p dir='auto'><b>Result:</b></p>
    
