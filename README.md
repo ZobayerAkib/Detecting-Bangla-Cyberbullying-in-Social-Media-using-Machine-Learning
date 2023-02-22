@@ -12,7 +12,7 @@
   <div>
   <div dir='auto' > 
   <p><b>Diagram of proposed Methodology</b></p>
-  <img width=50% src="https://user-images.githubusercontent.com/66842328/220709528-fa462b3c-ba7d-45e3-9108-013965a2e8b5.png">
+  <img width=80% src="https://user-images.githubusercontent.com/66842328/220710086-6d21ced3-89b6-4142-9a17-8d591d62e9bb.jpg">
  <div>
  
  <p dir='auto'><b>Result:</b></p>
