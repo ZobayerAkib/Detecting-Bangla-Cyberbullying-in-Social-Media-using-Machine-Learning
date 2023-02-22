@@ -1,12 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F3F7CF&width=435&lines=Detecting+Bangla+Cyberbullying;using+Machine+Learning" alt="Typing SVG" /></a>
 
-<div dir='auto' > 
+<div dir='auto'class='Box mt-4 position-relative' > 
   <p><b>Representation of  dataset frequency based on Text column</b></p>
   <img width=30% src="https://user-images.githubusercontent.com/66842328/220704667-aae03fcf-1c04-40c3-893b-5c532f100fe2.png">
- <div>
-  <div dir='auto' > 
   <p><b>Representation of training and testing data ratio</b></p>
   <img width=30% src="https://user-images.githubusercontent.com/66842328/220705395-511ba89c-97ed-44da-8af3-cb8067fb7a3c.png">
+ <div>
+  <div dir='auto' > 
+  
  <div>
  <p dir='auto'><b>Result:</b></p>
    
